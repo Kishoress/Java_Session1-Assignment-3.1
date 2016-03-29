@@ -1,0 +1,1 @@
+The Numbers which cant be Assigned to Int are 10.0 and 0.12 i.e., Float and Double values.
